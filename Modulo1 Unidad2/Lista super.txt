@@ -6,3 +6,4 @@ peras
 
 papas
 chocolate
+sal
