@@ -3,3 +3,6 @@ galletitas
 bananas
 manzanas
 peras
+
+papas
+chocolate
